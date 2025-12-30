@@ -1,0 +1,15 @@
+{
+  "ts_utc": "2025-12-30T14:52:19.964441+00:00",
+  "unix": 1767106339,
+  "iso_week": 1,
+  "day_of_year": 364,
+  "zones": {
+    "kyiv": "2025-12-30T16:52:19.964441+02:00",
+    "new_york": "2025-12-30T09:52:19.964441-05:00"
+  },
+  "bucket40": 2,
+  "note": "pulse",
+  "checksum": "02151199a1ea",
+  "source": "chrono-beat-logger/stdlib",
+  "repo_hint": "unique-format-v2"
+}
